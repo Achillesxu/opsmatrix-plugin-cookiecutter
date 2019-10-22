@@ -1,5 +1,5 @@
 opsmatrix-plugin-cookiecutter
-==========================
+=================================================================
 
 A simple `cookiecutter`_ template to bootstrap a opsmatrix plugin.
 
