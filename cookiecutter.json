@@ -1,0 +1,12 @@
+{
+	"repo_name": "opsmatrix-superplugin",
+	"repo_url": "GitHub repository URL",
+	"module_name": "opsmatrix_superplugin",
+	"human_name": "The opsmatrix super plugin",
+	"author_name": "Your name",
+	"author_email": "Your email",
+	"year": "Current year",
+	"short_description": "Short description",
+	"license": ["Apache", "NuoNuo Enterprise"],
+	"min_basever": "0.0.1"
+}
